@@ -1,0 +1,7 @@
+interface:
+  display_name: "Prompt Readiness"
+  short_description: "Assess whether a prompt has enough information"
+  default_prompt: "Use $prompt-readiness to assess this prompt before executing it."
+
+policy:
+  allow_implicit_invocation: true
