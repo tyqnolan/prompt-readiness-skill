@@ -1,0 +1,7 @@
+interface:
+  display_name: "Check My Prompt"
+  short_description: "Manually start a prompt readiness assessment"
+  default_prompt: "Use $check-my-prompt to assess the prompt below without executing it."
+
+policy:
+  allow_implicit_invocation: false
